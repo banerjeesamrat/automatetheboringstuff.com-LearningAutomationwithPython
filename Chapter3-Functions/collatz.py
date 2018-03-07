@@ -1,31 +1,20 @@
-user = 0
+import sys
 
 def collatz(number):
-    if(number%2==0):
-        return(number//2)
-        
-    elif(number%2!=0):
-        return((3*number)+1)
-
-try:
-    user=int(input('Enter an integer\n'))
-    if(user<=0):
-        print("Only positive integers")
+    if(number%2 == 0):
+        number = number // 2
+    elif(number%2 != 0):
+        number = (number * 3) + 1
     else:
-        while(True):
-            user=collatz(user)
-            print(user)
+        print("Exception")
+    return number
 
-            if(user==1):
-                break
+number = int(input("Enter an integer for collatz : "))
 
-except ValueError:
-    print('Enter an integer only')
+if(number == 0 or number < 0):
+    print("Exception")
+    sys.exit()
 
-
-    
-
-
-    
-        
-
+while(number != 1):
+    number = collatz(number)
+    print(number)
