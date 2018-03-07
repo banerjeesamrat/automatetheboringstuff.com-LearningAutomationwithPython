@@ -3,4 +3,4 @@
 
 
 
-![The link to the book's contents](https://automatetheboringstuff.com/)
+![The link to the book's contents] (https://automatetheboringstuff.com/)
