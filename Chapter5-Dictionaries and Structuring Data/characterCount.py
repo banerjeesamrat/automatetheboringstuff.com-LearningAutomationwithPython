@@ -6,3 +6,4 @@ for character in message:
     count[character] = count[character] + 1
 
 print(count)
+
