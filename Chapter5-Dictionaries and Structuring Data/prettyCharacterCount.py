@@ -8,3 +8,6 @@ for character in message:
     count[character] = count[character] + 1
 
 pprint.pprint(count)
+
+for character in message:
+    print(pprint.pformat(character))
