@@ -15,3 +15,4 @@ print(' - Cups           ' + str(totalBrought(allGuests, 'cups')))
 print(' - Cakes          ' + str(totalBrought(allGuests, 'cakes')))
 print(' - Ham Sandwiches ' + str(totalBrought(allGuests, 'ham sandwiches')))
 print(' - Apple Pies     ' + str(totalBrought(allGuests, 'apple pies')))
+
