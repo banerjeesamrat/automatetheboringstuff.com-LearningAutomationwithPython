@@ -42,10 +42,10 @@ grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['.', '.', '.', '.', '.', '.']]
 
-for k in range(6):
+for k in range(len(grid[0])):
     for i in range(len(grid)):
         print(grid[i][k],end='')
-    print("\n")
+    print()
     
 
 

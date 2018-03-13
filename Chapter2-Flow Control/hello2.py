@@ -1,3 +1,5 @@
+
+
 spam=input('Enter Value of spam\n')
 
 if(spam=='1'):
