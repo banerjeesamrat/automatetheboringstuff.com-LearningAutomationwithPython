@@ -8,6 +8,6 @@
 
 **You can find the book on the link below**
 
-https://automatetheboringstuff.com
+* [ ] https://automatetheboringstuff.com
 
 ![](https://github.com/banerjeesamrat/LearningAutomationwithPython/blob/master/automate_cover_medium.png)
