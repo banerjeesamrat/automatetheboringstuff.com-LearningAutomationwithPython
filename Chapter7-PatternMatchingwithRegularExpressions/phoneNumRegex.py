@@ -14,3 +14,14 @@ phoneNumRegex=re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
 
 mo = phoneNumRegex.search('My number is 415-555-4242.')
 print('Phone number found: ' + mo.group())
+
+# mo variable stores Match object returned by search()
+# Match object has method group() which returns actual matched text
+
+# Using Question Mark
+
+phoneRegex = re.compile(r'(\d\d\d-)?\d\d\d-\d\d\d\d')
+mo1 = phoneRegex.search('My number is 415-555-4242')
+print(mo1.group())
+mo2 = phoneRegex.search('My number is 555-4242')
+print(mo2.group())
