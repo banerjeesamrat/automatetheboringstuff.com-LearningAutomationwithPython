@@ -26,7 +26,7 @@
 * [x] Chapter 5 – Dictionaries and Structuring Data
 * [x] Chapter 6 – Manipulating Strings
 * [x] Chapter 7 – Pattern Matching with Regular Expressions
-* [ ] Chapter 8 – Reading and Writing Files
+* [x] Chapter 8 – Reading and Writing Files
 * [ ] Chapter 9 – Organizing Files
 * [ ] Chapter 10 – Debugging
 * [ ] Chapter 11 – Web Scraping
