@@ -41,4 +41,4 @@ def backupToZip(folder):
     backupZip.close()
     print("Done.")
 
-backupToZip('/home/samrat/LearningAutomationwithPython')
+backupToZip('/home/samrat/Anything')
