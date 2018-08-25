@@ -10,7 +10,7 @@
 
 - [x] https://automatetheboringstuff.com
 
-![](https://github.com/banerjeesamrat/LearningAutomationwithPython/blob/master/automate_cover_medium.png) 
+![](https://github.com/banerjeesamrat/LearningAutomationwithPython/blob/master/automate_cover_medium.png)
 
 ---
 
@@ -30,12 +30,10 @@
 * [x] Chapter 9 – Organizing Files
 * [x] Chapter 10 – Debugging
 * [x] Chapter 11 – Web Scraping
-* [ ] Chapter 12 – Working with Excel Spreadsheets
+* [x] Chapter 12 – Working with Excel Spreadsheets
 * [ ] Chapter 13 – Working with PDF and Word Documents
 * [ ] Chapter 14 – Working with CSV Files and JSON Data
 * [ ] Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
 * [ ] Chapter 16 – Sending Email and Text Messages
 * [ ] Chapter 17 – Manipulating Images
 * [ ] Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
-
-
