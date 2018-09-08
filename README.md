@@ -32,8 +32,8 @@
 * [x] Chapter 11 – Web Scraping
 * [x] Chapter 12 – Working with Excel Spreadsheets
 * [x] Chapter 13 – Working with PDF and Word Documents
-* [ ] Chapter 14 – Working with CSV Files and JSON Data
-* [ ] Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
+* [x] Chapter 14 – Working with CSV Files and JSON Data
+* [x] Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
 * [ ] Chapter 16 – Sending Email and Text Messages
 * [ ] Chapter 17 – Manipulating Images
 * [ ] Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
