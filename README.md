@@ -34,6 +34,6 @@
 * [x] Chapter 13 – Working with PDF and Word Documents
 * [x] Chapter 14 – Working with CSV Files and JSON Data
 * [x] Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
-* [ ] Chapter 16 – Sending Email and Text Messages
+* [x] Chapter 16 – Sending Email and Text Messages
 * [ ] Chapter 17 – Manipulating Images
 * [ ] Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
